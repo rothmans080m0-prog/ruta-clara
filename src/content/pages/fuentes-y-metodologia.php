@@ -2,7 +2,7 @@
 return [
     'slug' => 'fuentes-y-metodologia',
     'title' => 'Fuentes y metodología',
-    'description' => 'Fuentes oficiales y metodología de verificación que usa Ruta Clara para tarifas, coberturas, normativa y procedimientos del SOAT.',
+    'description' => 'Fuentes oficiales y metodología de verificación que usa Guía SOAT Colombia para tarifas, coberturas, normativa y procedimientos del SOAT.',
     'lead' => 'De dónde sale la información y cómo la verificamos.',
     'body' => <<<'HTML'
 <h2>Fuentes prioritarias</h2>

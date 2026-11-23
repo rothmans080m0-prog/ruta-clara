@@ -2,7 +2,7 @@
 return [
     'slug' => 'politica-de-privacidad',
     'title' => 'Política de privacidad',
-    'description' => 'Política de privacidad y tratamiento de datos personales de Ruta Clara: qué datos se tratan, finalidades, derechos del titular y contacto.',
+    'description' => 'Política de privacidad y tratamiento de datos personales de Guía SOAT Colombia: qué datos se tratan, finalidades, derechos del titular y contacto.',
     'lead' => 'Cómo tratamos los datos de quienes visitan el portal.',
     'body' => <<<'HTML'
 <div class="callout warn"><p><strong>Responsable pendiente de identificar.</strong> Los datos del responsable del tratamiento aparecen como marcadores <strong>[PENDIENTE]</strong> hasta que el titular del portal los complete. Esta política debe ser revisada por el titular y, de ser necesario, por un asesor jurídico antes de la publicación definitiva.</p></div>
@@ -11,7 +11,7 @@ return [
 <p>[NOMBRE O RAZÓN SOCIAL – PENDIENTE] · [NIT/CC – PENDIENTE] · [DOMICILIO – PENDIENTE] · [CORREO – PENDIENTE]</p>
 
 <h2>Principio general: recopilamos lo mínimo</h2>
-<p>Ruta Clara <strong>no pide que te registres</strong>, no ofrece pagos, no solicita datos bancarios y no tiene formularios que recojan datos personales. El portal no consulta bases de datos oficiales sobre tu vehículo o tu persona.</p>
+<p>Guía SOAT Colombia <strong>no pide que te registres</strong>, no ofrece pagos, no solicita datos bancarios y no tiene formularios que recojan datos personales. El portal no consulta bases de datos oficiales sobre tu vehículo o tu persona.</p>
 
 <h2>Qué datos se pueden tratar</h2>
 <ul>

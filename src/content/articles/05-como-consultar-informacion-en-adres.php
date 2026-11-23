@@ -19,7 +19,7 @@ return [
     'faq' => [
         ['¿Puedo saber en ADRES si mi SOAT está vigente?', 'No es el lugar para eso. La vigencia de la póliza se verifica en el RUNT. La ADRES administra recursos del sistema de salud.'],
         ['¿Por qué aparece la ADRES en el precio del SOAT?', 'Porque una parte del valor que pagas corresponde a una contribución a favor de la ADRES, que en las tarifas 2026 equivale al 52 % de la prima.'],
-        ['¿Ruta Clara tiene relación con la ADRES?', 'No. Es un portal independiente y no representa a ninguna entidad oficial.'],
+        ['¿Guía SOAT Colombia tiene relación con la ADRES?', 'No. Es un portal independiente y no representa a ninguna entidad oficial.'],
     ],
     'body' => <<<'HTML'
 <p>La <strong>ADRES</strong> (Administradora de los Recursos del Sistema General de Seguridad Social en Salud) es la entidad que administra los recursos del sistema de salud colombiano. Aparece en el mundo del SOAT por dos razones: recibe parte de lo que pagas por la póliza y administra recursos para atender a víctimas de accidentes de tránsito en ciertos casos.</p>

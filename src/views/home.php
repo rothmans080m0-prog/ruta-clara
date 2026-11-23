@@ -8,7 +8,7 @@ uasort($latest, fn($x, $y) => strcmp($y['updated'], $x['updated']) ?: ($x['order
 $latest = array_slice(array_values($latest), 0, 6);
 
 $faq = [
-    ['¿Ruta Clara vende o renueva el SOAT?', 'No. Ruta Clara es un portal informativo independiente. No vende, expide ni renueva pólizas, no recibe pagos y no solicita datos bancarios. El SOAT solo lo expiden las aseguradoras autorizadas.'],
+    ['¿Guía SOAT Colombia vende o renueva el SOAT?', 'No. Guía SOAT Colombia es un portal informativo independiente. No vende, expide ni renueva pólizas, no recibe pagos y no solicita datos bancarios. El SOAT solo lo expiden las aseguradoras autorizadas.'],
     ['¿Pueden consultar mi SOAT en este sitio?', 'No. Este portal no tiene acceso a bases de datos oficiales. Te explicamos cómo hacer la consulta en las plataformas oficiales, como el RUNT, y te enlazamos a ellas.'],
     ['¿Cuánto cuesta el SOAT en 2026?', 'El valor depende de la categoría del vehículo. En la sección de tarifas publicamos las tarifas máximas 2026 con su fuente y fecha de revisión. El precio exacto lo confirma la aseguradora autorizada.'],
     ['¿Qué pasa si conduzco sin SOAT vigente?', 'Es una infracción de tránsito que implica multa e inmovilización del vehículo. Detallamos el marco legal y los valores de referencia en nuestra guía sobre multas.'],

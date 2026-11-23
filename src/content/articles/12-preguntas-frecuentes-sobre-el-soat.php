@@ -22,11 +22,11 @@ return [
         ['¿Quién debe tener SOAT?', 'Todo vehículo automotor que transite por el territorio nacional, con las excepciones que establezca la norma.'],
         ['¿Cuánto dura el SOAT?', 'La póliza se expide por un año.'],
         ['¿Cuánto cuesta el SOAT en 2026?', 'Depende de la categoría. Consulta las tarifas máximas en nuestra tabla de tarifas SOAT 2026; el valor final lo confirma la aseguradora autorizada.'],
-        ['¿Dónde verifico si mi SOAT está vigente?', 'En el RUNT, la plataforma oficial. Ruta Clara no consulta datos por ti.'],
+        ['¿Dónde verifico si mi SOAT está vigente?', 'En el RUNT, la plataforma oficial. Guía SOAT Colombia no consulta datos por ti.'],
         ['¿Qué pasa si conduzco sin SOAT?', 'Multa de 30 SMDLV e inmovilización del vehículo, según el Código Nacional de Tránsito.'],
         ['¿El SOAT cubre mi carro si lo chocan?', 'No. Cubre a las personas, no los daños materiales al vehículo.'],
         ['¿Debo estar en regla para que atiendan a una víctima?', 'La atención de urgencias a las víctimas no debe depender de trámites previos. Si hay dudas sobre la cobertura, consulta a la aseguradora o a la Superintendencia Financiera.'],
-        ['¿Ruta Clara vende SOAT?', 'No. Es un portal informativo independiente y no vende, expide ni renueva pólizas.'],
+        ['¿Guía SOAT Colombia vende SOAT?', 'No. Es un portal informativo independiente y no vende, expide ni renueva pólizas.'],
         ['¿Qué hago si el SOAT que compré no aparece en el RUNT?', 'Contacta a la aseguradora para que confirme el reporte y conserva el comprobante. Mira la guía de vigencia para más pasos.'],
     ],
     'body' => <<<'HTML'

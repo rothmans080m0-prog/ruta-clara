@@ -27,7 +27,7 @@ return [
 <p>Las tarifas del SOAT no las fija cada aseguradora a su gusto: la <strong>Superintendencia Financiera de Colombia</strong> establece cada año <strong>tarifas máximas</strong> por categoría de vehículo. Las de 2026 están en la Circular Externa 022 de 2025 y rigen desde el 1 de enero de 2026. Esta página reúne los valores con su fuente y fecha de revisión (<strong>{{FECHA_REVISION}}</strong>).</p>
 
 <div class="callout warn">
-  <p><strong>Importante:</strong> esta tabla es informativa. Ruta Clara no vende SOAT, no cotiza y no promete descuentos. El valor final lo confirma la aseguradora autorizada.</p>
+  <p><strong>Importante:</strong> esta tabla es informativa. Guía SOAT Colombia no vende SOAT, no cotiza y no promete descuentos. El valor final lo confirma la aseguradora autorizada.</p>
 </div>
 
 <h2>Tarifas máximas 2026 por categoría</h2>

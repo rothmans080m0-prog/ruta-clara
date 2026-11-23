@@ -17,7 +17,7 @@ return [
     ],
     'related' => ['como-consultar-el-soat-por-placa', 'como-verificar-si-el-soat-esta-vigente', 'como-consultar-informacion-en-adres'],
     'faq' => [
-        ['¿Ruta Clara está afiliado al RUNT?', 'No. Ruta Clara es un portal independiente, sin vínculo con el RUNT ni con ninguna entidad oficial.'],
+        ['¿Guía SOAT Colombia está afiliado al RUNT?', 'No. Guía SOAT Colombia es un portal independiente, sin vínculo con el RUNT ni con ninguna entidad oficial.'],
         ['¿Quién reporta el SOAT al RUNT?', 'Las aseguradoras que expiden la póliza son las encargadas de reportarla al registro. Si no aparece, la aseguradora es el primer contacto.'],
         ['¿El RUNT sirve para algo más que el SOAT?', 'Sí. Es el registro nacional de tránsito: contiene información de vehículos, conductores y otros documentos relacionados.'],
     ],

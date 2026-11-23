@@ -44,7 +44,7 @@ return [
   <li><strong>Seguros de accidentes personales</strong> o de asistencia en carretera.</li>
 </ul>
 <div class="callout">
-  <p><strong>Ruta Clara no vende ni recomienda seguros.</strong> Esta información es solo educativa. Para contratar cualquier producto, acude a una aseguradora o intermediario autorizado por la Superintendencia Financiera.</p>
+  <p><strong>Guía SOAT Colombia no vende ni recomienda seguros.</strong> Esta información es solo educativa. Para contratar cualquier producto, acude a una aseguradora o intermediario autorizado por la Superintendencia Financiera.</p>
 </div>
 
 <h2>Cómo evitar sorpresas</h2>

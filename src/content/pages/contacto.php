@@ -2,7 +2,7 @@
 return [
     'slug' => 'contacto',
     'title' => 'Contacto',
-    'description' => 'Contacta con el equipo editorial de Ruta Clara para reportar errores, sugerir temas o hacer consultas sobre el portal.',
+    'description' => 'Contacta con el equipo editorial de Guía SOAT Colombia para reportar errores, sugerir temas o hacer consultas sobre el portal.',
     'lead' => 'Escríbenos para reportar errores o sugerir temas.',
     'body' => <<<'HTML'
 <div class="callout warn"><p><strong>Canal de contacto pendiente.</strong> El correo de contacto del portal se publicará aquí cuando el titular lo defina. Hasta entonces el dato es un marcador provisional.</p></div>
@@ -25,6 +25,6 @@ return [
 </ul>
 
 <h2>Seguridad</h2>
-<p>Nunca te pediremos contraseñas, números de tarjeta ni datos bancarios, y no debes enviarlos por correo. Si recibes un mensaje que dice venir de Ruta Clara y los solicita, ignóralo.</p>
+<p>Nunca te pediremos contraseñas, números de tarjeta ni datos bancarios, y no debes enviarlos por correo. Si recibes un mensaje que dice venir de Guía SOAT Colombia y los solicita, ignóralo.</p>
 HTML,
 ];

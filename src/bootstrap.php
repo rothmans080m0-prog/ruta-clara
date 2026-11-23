@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 define('ROOT', dirname(__DIR__));
-const SITE_NAME = 'Ruta Clara';
+const SITE_NAME = 'Guía SOAT Colombia';
 const SITE_TAGLINE = 'Portal informativo independiente sobre el SOAT en Colombia';
 const LAST_REVIEW = '2026-11-23';
 
@@ -208,7 +208,7 @@ function route(): void
 
     if ($n === 0) {
         render('home', [
-            'title' => SITE_NAME . ' | Información independiente sobre el SOAT en Colombia',
+            'title' => 'SOAT en Colombia: consulta, tarifas 2026 y guía informativa | ' . SITE_NAME,
             'description' => 'Guías claras y verificadas sobre el SOAT en Colombia: qué cubre, cómo consultarlo, tarifas 2026 y normativa. Portal informativo independiente, no oficial.',
             'canonical' => '/',
             'home' => true,

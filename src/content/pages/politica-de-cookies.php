@@ -2,13 +2,13 @@
 return [
     'slug' => 'politica-de-cookies',
     'title' => 'Política de cookies',
-    'description' => 'Política de cookies de Ruta Clara: qué cookies y almacenamientos usa el sitio, cuáles son opcionales y cómo cambiar tu elección.',
+    'description' => 'Política de cookies de Guía SOAT Colombia: qué cookies y almacenamientos usa el sitio, cuáles son opcionales y cómo cambiar tu elección.',
     'lead' => 'Qué usamos, para qué y cómo cambiar tu elección.',
     'body' => <<<'HTML'
 <h2>Qué son las cookies</h2>
 <p>Son pequeños archivos o datos que el navegador guarda cuando visitas un sitio. Sirven para recordar preferencias o medir el uso del sitio.</p>
 
-<h2>Qué usa Ruta Clara</h2>
+<h2>Qué usa Guía SOAT Colombia</h2>
 <div class="table-wrap">
 <table class="tbl">
   <caption>Cookies y almacenamientos</caption>

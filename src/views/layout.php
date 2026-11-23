@@ -50,7 +50,7 @@ $ogImage = abs_url('/assets/img/og.png');
   <div class="wrap header-row">
     <a class="brand" href="/" aria-label="<?= e(SITE_NAME) ?> - inicio">
       <img src="/assets/img/logo.svg" width="40" height="40" alt="">
-      <span class="brand-text"><span class="brand-name"><?= e(SITE_NAME) ?></span><span class="brand-sub">Información sobre el SOAT</span></span>
+      <span class="brand-text"><span class="brand-name"><?= e(SITE_NAME) ?></span><span class="brand-sub">Información independiente</span></span>
     </a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-principal" aria-label="Abrir menú"><?= icon('menu') ?></button>
     <nav id="nav-principal" class="nav" aria-label="Principal">
