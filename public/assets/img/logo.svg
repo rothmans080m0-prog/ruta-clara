@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Ruta Clara">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e7c86"/>
+      <stop offset="1" stop-color="#0f2a3d"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 4l22 8v17c0 14.5-9.4 25.4-22 31C19.400 54.400 10 43.500 10 29V12l22-8z" fill="url(#g)"/>
+  <path d="M25 56L29.500 22h5L39 56" fill="none" stroke="#fff" stroke-opacity=".0"/>
+  <path d="M27 52L30 18h4l3 34z" fill="#ffffff" fill-opacity=".14"/>
+  <path d="M32 46v-5M32 36v-5M32 26v-4" stroke="#f2a33a" stroke-width="2.600" stroke-linecap="round"/>
+  <path d="M20 22c4-3 8-4 12-4s8 1 12 4" fill="none" stroke="#fff" stroke-width="2.200" stroke-linecap="round" stroke-opacity=".85"/>
+</svg>
