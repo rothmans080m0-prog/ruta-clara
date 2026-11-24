@@ -27,6 +27,6 @@ return [
 <p>Si encontramos un error, lo corregimos y actualizamos la fecha de revisión. Si nos escribes con una corrección, la revisaremos con las fuentes oficiales.</p>
 
 <h2>Autoría</h2>
-<p>Los artículos son elaborados por el equipo editorial de Guía de Pagos SOAT Colombia. La identificación del responsable del portal se publicará en el aviso legal cuando el titular la defina.</p>
+<p>Los artículos son elaborados por el equipo editorial de Guía de Pagos SOAT Colombia. La identificación del titular y del responsable del portal figura en el <a href="/aviso-legal">aviso legal</a>.</p>
 HTML,
 ];

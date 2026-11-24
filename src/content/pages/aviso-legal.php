@@ -5,14 +5,12 @@ return [
     'description' => 'Aviso legal de Guía de Pagos SOAT Colombia: naturaleza informativa e independiente del portal, ausencia de vínculo con entidades oficiales y limitación de responsabilidad.',
     'lead' => 'Qué es y qué no es Guía de Pagos SOAT Colombia.',
     'body' => <<<'HTML'
-<div class="callout warn"><p><strong>Datos del responsable pendientes.</strong> La identificación del titular del portal (nombre o razón social, documento de identificación y domicilio) se publicará aquí antes de activar la publicidad. Los campos marcados como <strong>[PENDIENTE]</strong> son marcadores provisionales y no corresponden a datos reales.</p></div>
-
 <h2>Titular del sitio</h2>
 <ul>
-  <li><strong>Titular:</strong> [NOMBRE O RAZÓN SOCIAL – PENDIENTE]</li>
-  <li><strong>Documento de identificación:</strong> [NIT/CC – PENDIENTE]</li>
-  <li><strong>Domicilio:</strong> [DIRECCIÓN Y CIUDAD – PENDIENTE]</li>
-  <li><strong>Correo de contacto:</strong> [CORREO – PENDIENTE]</li>
+  <li><strong>Titular:</strong> María Palmera (persona natural)</li>
+  <li><strong>Documento de identificación:</strong> disponible bajo solicitud ante autoridad competente; no se publica por protección de datos personales del titular.</li>
+  <li><strong>Domicilio:</strong> Carrera 38 n.º 3-8, Bogotá, Colombia</li>
+  <li><strong>Correo de contacto:</strong> <a href="mailto:rothmans080m0@gmail.com">rothmans080m0@gmail.com</a></li>
 </ul>
 
 <h2>Naturaleza del portal</h2>

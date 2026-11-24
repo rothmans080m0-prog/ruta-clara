@@ -5,10 +5,9 @@ return [
     'description' => 'Contacta con el equipo editorial de Guía de Pagos SOAT Colombia para reportar errores, sugerir temas o hacer consultas sobre el portal.',
     'lead' => 'Escríbenos para reportar errores o sugerir temas.',
     'body' => <<<'HTML'
-<div class="callout warn"><p><strong>Canal de contacto pendiente.</strong> El correo de contacto del portal se publicará aquí cuando el titular lo defina. Hasta entonces el dato es un marcador provisional.</p></div>
-
 <h2>Correo del equipo editorial</h2>
-<p><strong>[CORREO DE CONTACTO – PENDIENTE]</strong></p>
+<p><a href="mailto:rothmans080m0@gmail.com"><strong>rothmans080m0@gmail.com</strong></a></p>
+<p>Titular del portal: María Palmera · Carrera 38 n.º 3-8, Bogotá, Colombia.</p>
 
 <h2>Para qué puedes escribirnos</h2>
 <ul>
