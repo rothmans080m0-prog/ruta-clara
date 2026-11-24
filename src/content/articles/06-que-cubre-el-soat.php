@@ -3,7 +3,7 @@ return [
     'slug' => 'que-cubre-el-soat',
     'category' => 'informacion-general',
     'order' => 6,
-    'featured' => true,
+    'featured' => false,
     'published' => '2026-11-23',
     'updated' => '2026-11-23',
     'title' => 'Qué cubre el SOAT: coberturas y montos máximos por víctima',

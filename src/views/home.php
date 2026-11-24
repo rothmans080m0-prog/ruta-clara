@@ -8,7 +8,7 @@ uasort($latest, fn($x, $y) => strcmp($y['updated'], $x['updated']) ?: ($x['order
 $latest = array_slice(array_values($latest), 0, 6);
 
 $faq = [
-    ['¿Guía SOAT Colombia vende o renueva el SOAT?', 'No. Guía SOAT Colombia es un portal informativo independiente. No vende, expide ni renueva pólizas, no recibe pagos y no solicita datos bancarios. El SOAT solo lo expiden las aseguradoras autorizadas.'],
+    ['¿Guía de Pagos SOAT Colombia vende o renueva el SOAT?', 'No. Guía de Pagos SOAT Colombia es un portal informativo independiente. No vende, expide ni renueva pólizas, no recibe pagos y no solicita datos bancarios. El SOAT solo lo expiden las aseguradoras autorizadas.'],
     ['¿Pueden consultar mi SOAT en este sitio?', 'No. Este portal no tiene acceso a bases de datos oficiales. Te explicamos cómo hacer la consulta en las plataformas oficiales, como el RUNT, y te enlazamos a ellas.'],
     ['¿Cuánto cuesta el SOAT en 2026?', 'El valor depende de la categoría del vehículo. En la sección de tarifas publicamos las tarifas máximas 2026 con su fuente y fecha de revisión. El precio exacto lo confirma la aseguradora autorizada.'],
     ['¿Qué pasa si conduzco sin SOAT vigente?', 'Es una infracción de tránsito que implica multa e inmovilización del vehículo. Detallamos el marco legal y los valores de referencia en nuestra guía sobre multas.'],
@@ -23,19 +23,20 @@ $jsonld = [
 <section class="hero">
   <div class="wrap hero-grid">
     <div class="hero-copy">
-      <p class="eyebrow">Portal informativo independiente</p>
-      <h1>El SOAT en Colombia, explicado con claridad y con fuentes oficiales</h1>
-      <p class="lead">Qué cubre, cómo consultarlo en las plataformas oficiales, tarifas 2026 y normativa. Sin letra pequeña y sin vender nada.</p>
+      <p class="eyebrow">Guía informativa independiente · No vende ni cobra el SOAT</p>
+      <h1>Cómo pagar el SOAT en Colombia y qué pasa si no lo pagas</h1>
+      <p class="lead">Medios de pago, cuotas, precio 2026, cómo evitar fraudes y las consecuencias de no pagar a tiempo. Aquí no se paga nada: te explicamos cómo hacerlo con aseguradoras autorizadas.</p>
       <form class="hero-search" action="/buscar" method="get" role="search">
-        <label class="sr" for="q-hero">Buscar información sobre el SOAT</label>
-        <input id="q-hero" name="q" type="search" placeholder="Ej.: vigencia, motos, multas, RUNT…" maxlength="80" autocomplete="off">
+        <label class="sr" for="q-hero">Buscar información sobre pagos del SOAT</label>
+        <input id="q-hero" name="q" type="search" placeholder="Ej.: pagar SOAT, cuotas, moto, multa…" maxlength="80" autocomplete="off">
         <button class="btn" type="submit">Buscar</button>
       </form>
       <ul class="chips" aria-label="Accesos rápidos">
-        <li><a href="/tarifas/tarifas-soat-2026">Tarifas 2026</a></li>
+        <li><a href="/guias/como-pagar-el-soat-medios-de-pago-y-cuotas">Medios de pago</a></li>
+        <li><a href="/tarifas/tarifas-soat-2026">Precio 2026</a></li>
         <li><a href="/guias/como-verificar-si-el-soat-esta-vigente">Verificar vigencia</a></li>
         <li><a href="/informacion-general/que-cubre-el-soat">Qué cubre</a></li>
-        <li><a href="/normativa/multas-por-conducir-sin-soat">Multas</a></li>
+        <li><a href="/guias/que-pasa-si-no-pagas-el-soat-a-tiempo">Si no pagas</a></li>
       </ul>
     </div>
     <div class="hero-art"><img src="/assets/img/hero.svg" width="560" height="440" alt="Ilustración de una carretera, un escudo de protección y un mapa" fetchpriority="high"></div>

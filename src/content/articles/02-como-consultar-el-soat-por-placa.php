@@ -3,7 +3,7 @@ return [
     'slug' => 'como-consultar-el-soat-por-placa',
     'category' => 'consultas',
     'order' => 2,
-    'featured' => true,
+    'featured' => false,
     'published' => '2026-11-23',
     'updated' => '2026-11-23',
     'title' => 'Cómo consultar el SOAT por placa: pasos en el RUNT',
@@ -17,7 +17,7 @@ return [
     ],
     'related' => ['como-verificar-si-el-soat-esta-vigente', 'como-consultar-el-soat-en-el-runt', 'que-es-el-soat-en-colombia'],
     'faq' => [
-        ['¿Este sitio puede consultar mi placa?', 'No. Guía SOAT Colombia no tiene acceso a bases de datos oficiales ni ofrece un servicio de consulta. Te explicamos cómo hacerlo en el sitio oficial del RUNT.'],
+        ['¿Este sitio puede consultar mi placa?', 'No. Guía de Pagos SOAT Colombia no tiene acceso a bases de datos oficiales ni ofrece un servicio de consulta. Te explicamos cómo hacerlo en el sitio oficial del RUNT.'],
         ['¿Tengo que pagar para consultar el SOAT?', 'La consulta ciudadana en la plataforma oficial no debería tener costo. Desconfía de páginas que te cobren por mostrarte información de una placa.'],
         ['¿Puedo consultar el SOAT de un vehículo que no es mío?', 'Depende de los datos que pida la plataforma oficial. El RUNT puede exigir información de verificación del propietario para mostrar ciertos datos del vehículo.'],
     ],
@@ -25,7 +25,7 @@ return [
 <p>Consultar el SOAT por placa significa revisar, en el registro oficial, si un vehículo tiene una póliza registrada y cuáles son sus fechas de vigencia. La fuente oficial para hacerlo es el <strong>RUNT</strong> (Registro Único Nacional de Tránsito). A continuación te explicamos el procedimiento general.</p>
 
 <div class="callout warn">
-  <p><strong>Aclaración:</strong> Guía SOAT Colombia <strong>no realiza consultas</strong> ni muestra datos de vehículos. Solo te orienta para que uses las plataformas oficiales.</p>
+  <p><strong>Aclaración:</strong> Guía de Pagos SOAT Colombia <strong>no realiza consultas</strong> ni muestra datos de vehículos. Solo te orienta para que uses las plataformas oficiales.</p>
 </div>
 
 <h2>Qué necesitas antes de empezar</h2>

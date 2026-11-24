@@ -46,7 +46,7 @@ return [
   <li>Comprueba el registro del SOAT en el RUNT después de la compra ([[como-verificar-si-el-soat-esta-vigente|cómo verificar la vigencia]]).</li>
 </ul>
 <div class="callout warn">
-  <p>Guía SOAT Colombia no vende SOAT ni cotiza. Esta tabla es un tope de referencia, no una oferta de precio.</p>
+  <p>Guía de Pagos SOAT Colombia no vende SOAT ni cotiza. Esta tabla es un tope de referencia, no una oferta de precio.</p>
 </div>
 HTML,
 ];

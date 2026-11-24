@@ -2,8 +2,8 @@
 declare(strict_types=1);
 
 define('ROOT', dirname(__DIR__));
-const SITE_NAME = 'Guía SOAT Colombia';
-const SITE_TAGLINE = 'Portal informativo independiente sobre el SOAT en Colombia';
+const SITE_NAME = 'Guía de Pagos SOAT Colombia';
+const SITE_TAGLINE = 'Guía independiente para pagar el SOAT en Colombia y conocer las consecuencias de no pagarlo';
 const LAST_REVIEW = '2026-11-23';
 
 require_once ROOT . '/src/views/icons.php';
@@ -208,8 +208,8 @@ function route(): void
 
     if ($n === 0) {
         render('home', [
-            'title' => 'SOAT en Colombia: consulta, tarifas 2026 y guía informativa | ' . SITE_NAME,
-            'description' => 'Guías claras y verificadas sobre el SOAT en Colombia: qué cubre, cómo consultarlo, tarifas 2026 y normativa. Portal informativo independiente, no oficial.',
+            'title' => 'Cómo pagar el SOAT en Colombia: guía de pagos y consecuencias | ' . SITE_NAME,
+            'description' => 'Guía independiente para pagar el SOAT en Colombia: medios de pago, cuotas, precio 2026 y qué pasa si no lo pagas a tiempo. Portal informativo, no vende ni cobra el SOAT.',
             'canonical' => '/',
             'home' => true,
         ]);

@@ -3,7 +3,7 @@ return [
     'slug' => 'que-es-el-soat-en-colombia',
     'category' => 'informacion-general',
     'order' => 1,
-    'featured' => true,
+    'featured' => false,
     'published' => '2026-11-23',
     'updated' => '2026-11-23',
     'title' => 'Qué es el SOAT en Colombia: guía completa y actualizada',

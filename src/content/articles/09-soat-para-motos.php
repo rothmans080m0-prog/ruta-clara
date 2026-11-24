@@ -50,7 +50,7 @@ return [
   <li>Comprueba que el SOAT quedó registrado a nombre de la placa correcta.</li>
 </ul>
 <div class="callout">
-  <p>Guía SOAT Colombia no vende SOAT ni cotiza. Esta información es una referencia para que sepas el tope que puede cobrarte la aseguradora.</p>
+  <p>Guía de Pagos SOAT Colombia no vende SOAT ni cotiza. Esta información es una referencia para que sepas el tope que puede cobrarte la aseguradora.</p>
 </div>
 HTML,
 ];

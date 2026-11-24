@@ -3,7 +3,7 @@ return [
     'slug' => 'como-comprar-o-pagar-el-soat-de-forma-segura',
     'category' => 'guias',
     'order' => 13,
-    'featured' => false,
+    'featured' => true,
     'published' => '2026-11-23',
     'updated' => '2026-11-23',
     'title' => 'Cómo comprar o pagar el SOAT de forma segura y evitar fraudes',
@@ -18,7 +18,7 @@ return [
     ],
     'related' => ['tarifas-soat-2026', 'como-verificar-si-el-soat-esta-vigente', 'como-consultar-el-soat-por-placa'],
     'faq' => [
-        ['¿Puedo pagar el SOAT en este portal?', 'No. Guía SOAT Colombia es un portal informativo independiente: no vende, expide ni renueva pólizas y no recibe pagos. El SOAT solo lo expiden las aseguradoras autorizadas.'],
+        ['¿Puedo pagar el SOAT en este portal?', 'No. Guía de Pagos SOAT Colombia es un portal informativo independiente: no vende, expide ni renueva pólizas y no recibe pagos. El SOAT solo lo expiden las aseguradoras autorizadas.'],
         ['¿Se puede conseguir el SOAT más barato con un descuento?', 'Las tarifas del SOAT son reguladas y uniformes para cada categoría de vehículo. Desconfía de ofertas muy por debajo de la tarifa publicada: pueden ser fraude.'],
         ['¿Cómo compruebo que mi pago generó una póliza válida?', 'Guarda el comprobante y verifica la póliza con tu placa en la plataforma oficial. Si no aparece, contacta de inmediato a la aseguradora que la expidió.'],
     ],

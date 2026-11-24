@@ -3,7 +3,7 @@ return [
     'slug' => 'como-verificar-si-el-soat-esta-vigente',
     'category' => 'guias',
     'order' => 3,
-    'featured' => true,
+    'featured' => false,
     'published' => '2026-11-23',
     'updated' => '2026-11-23',
     'title' => 'Cómo verificar si el SOAT está vigente y qué hacer si no aparece',
