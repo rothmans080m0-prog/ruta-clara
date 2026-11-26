@@ -7,7 +7,7 @@ return [
     'body' => <<<'HTML'
 <h2>Titular del sitio</h2>
 <ul>
-  <li><strong>Titular:</strong> María Palmera (persona natural)</li>
+  <li><strong>Titular:</strong> Abel Rincon (persona natural)</li>
   <li><strong>Documento de identificación:</strong> disponible bajo solicitud ante autoridad competente; no se publica por protección de datos personales del titular.</li>
   <li><strong>Domicilio:</strong> Carrera 38 n.º 3-8, Bogotá, Colombia</li>
   <li><strong>Correo de contacto:</strong> <a href="mailto:rothmans080m0@gmail.com">rothmans080m0@gmail.com</a></li>

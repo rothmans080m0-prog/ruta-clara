@@ -7,7 +7,7 @@ return [
     'body' => <<<'HTML'
 <h2>Correo del equipo editorial</h2>
 <p><a href="mailto:rothmans080m0@gmail.com"><strong>rothmans080m0@gmail.com</strong></a></p>
-<p>Titular del portal: María Palmera · Carrera 38 n.º 3-8, Bogotá, Colombia.</p>
+<p>Titular del portal: Abel Rincon · Carrera 38 n.º 3-8, Bogotá, Colombia.</p>
 
 <h2>Para qué puedes escribirnos</h2>
 <ul>

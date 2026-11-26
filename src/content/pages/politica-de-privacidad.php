@@ -6,7 +6,7 @@ return [
     'lead' => 'Cómo tratamos los datos de quienes visitan el portal.',
     'body' => <<<'HTML'
 <h2>Responsable del tratamiento</h2>
-<p>María Palmera (persona natural) · Domicilio: Carrera 38 n.º 3-8, Bogotá, Colombia · Correo: <a href="mailto:rothmans080m0@gmail.com">rothmans080m0@gmail.com</a></p>
+<p>Abel Rincon (persona natural) · Domicilio: Carrera 38 n.º 3-8, Bogotá, Colombia · Correo: <a href="mailto:rothmans080m0@gmail.com">rothmans080m0@gmail.com</a></p>
 
 <h2>Principio general: recopilamos lo mínimo</h2>
 <p>Guía de Pagos SOAT Colombia <strong>no pide que te registres</strong>, no ofrece pagos, no solicita datos bancarios y no tiene formularios que recojan datos personales. El portal no consulta bases de datos oficiales sobre tu vehículo o tu persona.</p>
